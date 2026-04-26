@@ -1,0 +1,23 @@
+{
+  "name": "qa_auto",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/anatoliizaika/qa_auto#readme",
+  "bugs": {
+    "url": "https://github.com/anatoliizaika/qa_auto/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anatoliizaika/qa_auto.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}

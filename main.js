@@ -1,3 +1,4 @@
-console.log('hello world')
-console.log('hello world2')
-console.log('created separate branch')
+import chalk from "chalk";
+
+console.log(chalk.yellow('Hello World'));
+
